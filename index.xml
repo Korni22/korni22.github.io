@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric&#39;s Blog</title>
-    <link>https://korni22.github.io/</link>
+    <link>https://blog.korni22.org/</link>
     <description>Recent content on Eric&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2018 14:46:02 +0200</lastBuildDate>
     
-	<atom:link href="https://korni22.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.korni22.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mastodon in Docker and AWS</title>
-      <link>https://korni22.github.io/posts/mastodon-in-docker-and-aws/</link>
+      <link>https://blog.korni22.org/posts/mastodon-in-docker-and-aws/</link>
       <pubDate>Thu, 30 Aug 2018 14:46:02 +0200</pubDate>
       
-      <guid>https://korni22.github.io/posts/mastodon-in-docker-and-aws/</guid>
+      <guid>https://blog.korni22.org/posts/mastodon-in-docker-and-aws/</guid>
       <description>By now, you&amp;rsquo;ve likely heard about Mastodon, which is all the rage right now.
 It is, functionality wise, a (almost) perfect replacement for ~~the birdsite~ Twitter. Lately, Twitter has become a cesspool infested with people that I do not want in my filter bubble community.
 Since Mastodon is federated one can run their own instance. Running stuff is hard though, especially in production and becomes exponentially harder if more people start using it.</description>
