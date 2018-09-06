@@ -6,10 +6,21 @@
     <description>Recent content on Eric&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Aug 2018 14:46:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Sep 2018 13:06:57 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.korni22.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Federated Networks, Free Speech and Other Easy Topics</title>
+      <link>https://blog.korni22.org/posts/federated-networks-free-speech-and-other-easy-topics/</link>
+      <pubDate>Thu, 06 Sep 2018 13:06:57 +0200</pubDate>
+      
+      <guid>https://blog.korni22.org/posts/federated-networks-free-speech-and-other-easy-topics/</guid>
+      <description>Okay, today I&amp;rsquo;m going to talk about an easy topic that probably has been discussed a million times in the last few weeks by people way smarter than I am.
+Yet, some of you might actually care about someone else&amp;rsquo;s perspective.
+Recently, Alex Jones has been all over every kind of media outlet, because his fish oil shop conspiracy website InfoWars was banned from two kinda important websites: YouTube and Facebook.</description>
+    </item>
     
     <item>
       <title>Mastodon in Docker and AWS</title>
