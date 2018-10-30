@@ -17,7 +17,62 @@
       <pubDate>Thu, 06 Sep 2018 13:06:57 +0200</pubDate>
       
       <guid>https://blog.korni22.org/posts/federated-networks-free-speech-and-other-easy-topics/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Okay, today I&amp;rsquo;m going to talk about a&lt;del&gt;n easy&lt;/del&gt; topic that probably has been discussed a million times in the last few weeks by people &lt;em&gt;way&lt;/em&gt; smarter than I am.&lt;/p&gt;
+
+&lt;p&gt;Yet, some of you might actually care about someone else&amp;rsquo;s perspective.&lt;/p&gt;
+
+&lt;p&gt;Recently, &lt;a href=&#34;https://en.wikipedia.org/wiki/Alex_Jones&#34;&gt;Alex Jones&lt;/a&gt; has been all over every kind of media outlet, because his &lt;del&gt;fish oil shop&lt;/del&gt; conspiracy website &lt;a href=&#34;https://en.wikipedia.org/wiki/InfoWars&#34;&gt;InfoWars&lt;/a&gt; was banned from two &lt;del&gt;kinda&lt;/del&gt; important websites: YouTube and Facebook.
+Since he &lt;em&gt;is&lt;/em&gt; allowed to say whatever he wants and deems worth saying, I don&amp;rsquo;t recognize this as censorship or a free speech violation.
+Facebook and ~YouTube~ Alphabet are private companies and can decide for themselves who they deem &amp;ldquo;worthy&amp;rdquo; of their platform and its users. And, for that matter, so is InfoWars, &lt;a href=&#34;https://twitter.com/kjmci/status/1026896388003704832&#34;&gt;which is why they reservce their rights to ban you, if you violate their policies&lt;/a&gt; and virtually agree with me 🙃&lt;/p&gt;
+
+&lt;p&gt;You might think otherwise and it&amp;rsquo;s completely fine and up to you.
+If I were Facebook and Alphabet, I would&amp;rsquo;ve made the same decisions.&lt;/p&gt;
+
+&lt;p&gt;Notably absent from the list above is &lt;a href=&#34;https://twitter.com&#34;&gt;Twitter&lt;/a&gt;.
+Twitter is arguably just as important as Facebook and YouTube are, but Twitter&amp;rsquo;s CEO &lt;a href=&#34;https://en.wikipedia.org/wiki/Jack_Dorsey&#34;&gt;Jack Dorsey&lt;/a&gt; &lt;a href=&#34;https://www.wsj.com/articles/inside-twitters-long-slow-struggle-to-police-bad-actors-1535972402&#34;&gt;supposedly overruled&lt;/a&gt; the moderation-teams decision to ban Alex Jones (Disclaimer: &lt;a href=&#34;https://eu.usatoday.com/story/tech/news/2018/09/04/twitter-jack-dorsey-alex-jones-infowars/1188812002/&#34;&gt;he denies that&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Alex Jones, in this case, is nothing more than a recent and controversial example.&lt;/p&gt;
+
+&lt;p&gt;If you ask me, everybody should be allowed to say what they want — inside of legal boundaries — e.g. denying the &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Holocaust&#34;&gt;Holocaust&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Laws_against_Holocaust_denial&#34;&gt;is flat out &lt;em&gt;illegal&lt;/em&gt;&lt;/a&gt; in 17 countries (including Germany).&lt;/p&gt;
+
+&lt;p&gt;If someone claims the sky is green instead of blue, they should totally be allowed to say that. &lt;em&gt;But&lt;/em&gt; I have no legal obligations to give those people a possibility to talk about this on &lt;em&gt;my&lt;/em&gt; platform.&lt;/p&gt;
+
+&lt;p&gt;There are platforms that allow free speech according to the American law, e.g. &lt;a href=&#34;https://en.wikipedia.org/wiki/Gab_(social_network)&#34;&gt;gab.ai&lt;/a&gt;.
+Basically since day one, gab.ai is &lt;a href=&#34;https://en.wikipedia.org/wiki/Gab_(social_network)#Users&#34;&gt;toxic cesspool full of xenophobes and white supremacists that have been banned from other websites&lt;/a&gt; — &lt;a href=&#34;https://www.thedailybeast.com/conspiracy-theories-are-eating-this-alt-right-friendly-site-from-the-inside&#34;&gt;and some users have turned against the site&amp;rsquo;s creator&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mastodon, the decentralized, federated and FOSS alternative to the existing &lt;del&gt;birdsite&lt;/del&gt; microblogging service Twitter is — of course — not immune to this problem, why would it be?&lt;/p&gt;
+
+&lt;p&gt;Still, I consider Mastodon&amp;rsquo;s (or any other federated social network) a better solution for this problem, since you can&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a) choose any existing instance (&lt;a href=&#34;https://blog.korni22.org/posts/mastodon-in-docker-and-aws/&#34;&gt;like mine!&lt;/a&gt;) that might have rules that suit your views better &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;b) even run your own instance to have your own rules and code of conduct &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since it&amp;rsquo;s federated, you can connect with users on other instances, with other code of conducts &lt;del&gt;(codes of conduct? codes of conducts?)&lt;/del&gt; while not having to rely on some big tech giant&amp;rsquo;s website &lt;del&gt;that is censored because of it&amp;rsquo;s leftist agenda&lt;/del&gt; that &lt;del&gt;censored you&lt;/del&gt; banned you, because you violated their community policies.&lt;/p&gt;
+
+&lt;p&gt;Of course, no social network is &lt;em&gt;immune&lt;/em&gt; to hate speech, racism or whatever you consider bad behavior. No, not even federated ones, be it &lt;a href=&#34;https://joinmastodon.org&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://pleroma.social&#34;&gt;Pleroma&lt;/a&gt; or &lt;a href=&#34;https://gnu.io/social/&#34;&gt;GNU social&lt;/a&gt;. Not because they are flawed and nobody actually cares, but because our societies are not immune to it. No amount of &lt;del&gt;business bullshit like &lt;a href=&#34;https://en.wikipedia.org/wiki/Big_data&#34;&gt;Big Data&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Blockchain&#34;&gt;Blockchains&lt;/a&gt; or &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_intelligence&#34;&gt;AI&lt;/a&gt;&lt;/del&gt; technology can solve this problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The only thing you can do is create clear, easy to understandable guidelines, follow them and enforce them if need be.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;update-from-september-7th-2018&#34;&gt;Update from September 7th, 2018&lt;/h3&gt;
+
+&lt;p&gt;Twiter &lt;em&gt;obviously&lt;/em&gt; read my blog post and finally acted accordingly:
+&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Today, we permanently suspended &lt;a href=&#34;https://twitter.com/RealAlexJones&#34;&gt;@realalexjones&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/infowars&#34;&gt;@infowars&lt;/a&gt; from Twitter and Periscope. We took this action based on new reports of Tweets and videos posted yesterday that violate our abusive behavior policy, in addition to the accounts’ past violations. &lt;a href=&#34;https://t.co/gckzUAV8GL&#34;&gt;https://t.co/gckzUAV8GL&lt;/a&gt;&lt;/p&gt;&amp;mdash; Twitter Safety (@TwitterSafety) &lt;a href=&#34;https://twitter.com/TwitterSafety/status/1037804427992686593?ref_src=twsrc%5Etfw&#34;&gt;September 6, 2018&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Hint: if you are a white supremacist, holocaust denier or any other kind of idiot, please stay away from ffm.social, or we&amp;rsquo;ll ban you.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;If you run an instance, that does things differently and allows free speech (in the american way), it is very likely that you&amp;rsquo;ll end up on &lt;a href=&#34;https://github.com/tootcafe/blocked-instances&#34;&gt;this list&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -26,7 +81,33 @@
       <pubDate>Thu, 30 Aug 2018 14:46:02 +0200</pubDate>
       
       <guid>https://blog.korni22.org/posts/mastodon-in-docker-and-aws/</guid>
-      <description></description>
+      <description>&lt;p&gt;By now, you&amp;rsquo;ve likely heard about &lt;a href=&#34;https://joinmastodon.org&#34;&gt;Mastodon&lt;/a&gt;, which is all the rage right now.&lt;/p&gt;
+
+&lt;p&gt;It is, functionality wise, a (almost) perfect replacement for ~~the birdsite~ &lt;a href=&#34;https://twitter.com&#34;&gt;Twitter&lt;/a&gt;.
+Lately, Twitter has become a cesspool infested with people that I do &lt;em&gt;not&lt;/em&gt; want in my &lt;del&gt;filter bubble&lt;/del&gt; &lt;a href=&#34;https://twitter.com/korni22/following&#34;&gt;community&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since Mastodon is &lt;a href=&#34;https://en.wikipedia.org/wiki/Federation_(information_technology)&#34;&gt;federated&lt;/a&gt; one &lt;em&gt;can&lt;/em&gt; run their own instance. Running stuff is hard though, especially in production and becomes exponentially harder if more people start using it.
+And since I wanted to have &lt;del&gt;my own&lt;/del&gt; a Mastodon instance as well, I was looking for a reliable solution, that takes as much work away from me as possible.&lt;/p&gt;
+
+&lt;p&gt;To me, this means having a Linux VM that needs little to maintenance (&lt;a href=&#34;https://www.debian.org&#34;&gt;Debian&lt;/a&gt; instead of &lt;a href=&#34;https://www.archlinux.org&#34;&gt;Arch Linux&lt;/a&gt;, e.g.), runs &lt;a href=&#34;https://www.docker.com&#34;&gt;Docker&lt;/a&gt; &lt;a href=&#34;https://docs.docker.com/engine/swarm/&#34;&gt;Swarm&lt;/a&gt; so I don&amp;rsquo;t have to care about scaling, load balancing, routing , running &lt;code&gt;docker-compose up -d&lt;/code&gt; after reboots and using &lt;del&gt;someone else&amp;rsquo;s&lt;/del&gt; a hosted &lt;a href=&#34;https://en.wikipedia.org/wiki/Relational_database&#34;&gt;RDS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In my case, to be precise, I am talking about running Mastodon on top of&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a Docker Swarm (with 1 node)&lt;/li&gt;
+&lt;li&gt;utilizing Amazon&amp;rsquo;s &lt;a href=&#34;https://aws.amazon.com/en/ec2/&#34;&gt;EC2&lt;/a&gt; &lt;code&gt;t3.medium&lt;/code&gt; and RDS for &lt;a href=&#34;https://aws.amazon.com/en/rds/postgresql/&#34;&gt;PostgreSQL&lt;/a&gt;, on a &lt;code&gt;db.t2.small&lt;/code&gt; and a &lt;code&gt;cache.t2.micro&lt;/code&gt; &lt;a href=&#34;https://aws.amazon.com/en/elasticache/&#34;&gt;ElastiCache&lt;/a&gt; as &lt;a href=&#34;https://redis.io&#34;&gt;Redis&lt;/a&gt; replacement&lt;/li&gt;
+&lt;li&gt;with 50 GB &lt;a href=&#34;https://aws.amazon.com/en/ebs/&#34;&gt;EBS&lt;/a&gt; volume for &lt;del&gt;your&lt;/del&gt; the user&amp;rsquo;s assets and uploads&lt;/li&gt;
+&lt;li&gt;with &lt;a href=&#34;https://traefik.io&#34;&gt;Træfik&lt;/a&gt; as a reverse proxy, that also manages &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt; certificates for me&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using this setup, I only care about significant OS updates, Mastodon updates are &lt;a href=&#34;https://github.com/tootsuite/documentation/blob/master/Running-Mastodon/Docker-Guide.md#updating&#34;&gt;fairly simple&lt;/a&gt;, storage and database are (update-wise) none of my business.&lt;/p&gt;
+
+&lt;p&gt;This is, sadly, not a cheap setup, comes in at a steep ~80€/month, but it&amp;rsquo;s your instance afterwards, with &lt;em&gt;your&lt;/em&gt; rules, &lt;em&gt;your&lt;/em&gt; choices and full control.&lt;/p&gt;
+
+&lt;p&gt;If you want, I have &lt;del&gt;unlimited&lt;/del&gt; a few &lt;a href=&#34;https://ffm.social/invite/BsgQHz8p&#34;&gt;invites to spare&lt;/a&gt; 😉&lt;/p&gt;
+
+&lt;p&gt;And to make things easier for &lt;del&gt;future generations&lt;/del&gt; &lt;em&gt;you&lt;/em&gt;, I&amp;rsquo;ll publish my configurations in a &lt;a href=&#34;https://github.com/Korni22/mastodon-aws&#34;&gt;repository&lt;/a&gt;. Also, I might at some point add a &lt;a href=&#34;https://www.terraform.io&#34;&gt;Terraform&lt;/a&gt; template to make things easier 😎.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
