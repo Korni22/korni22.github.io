@@ -6,10 +6,76 @@
     <description>Recent content on Eric&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 17:51:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2019 17:14:46 +0200</lastBuildDate>
     
         <atom:link href="https://blog.korni22.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digital Silos</title>
+      <link>https://blog.korni22.org/posts/digital-silos/</link>
+      <pubDate>Wed, 03 Apr 2019 17:14:46 +0200</pubDate>
+      
+      <guid>https://blog.korni22.org/posts/digital-silos/</guid>
+      <description>&lt;p&gt;In the recent months it has become more and more clear for everyone to see that putting everything in one companies&amp;rsquo; hands doesn&amp;rsquo;t really work out for &lt;em&gt;you&lt;/em&gt; afterall.&lt;/p&gt;
+
+&lt;p&gt;The probably most recent / most popular example is &lt;a href=&#34;https://en.wikipedia.org/wiki/Google%2B#Shutdown_of_consumer_version&#34;&gt;the shutdown of Google+&lt;/a&gt;.
+&lt;/br&gt;Of course, the &lt;a href=&#34;https://www.archiveteam.org&#34;&gt;ArchiveTeam&lt;/a&gt; &lt;a href=&#34;https://www.archiveteam.org/index.php?title=Google%2B&#34;&gt;tried to backup Google+&lt;/a&gt;, but Google &lt;em&gt;seemed&lt;/em&gt; to try and block the effort, &lt;a href=&#34;https://twitter.com/textfiles/status/1112494767601053696&#34;&gt;by throttling downloads&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While you probably, &lt;a href=&#34;https://en.wikipedia.org/wiki/Google%2B#Growth&#34;&gt;as most of us&lt;/a&gt;, didn&amp;rsquo;t actually use it, someone else might&amp;rsquo;ve and they might&amp;rsquo;ve used it actively.
+&lt;/br&gt;Now imagine this is what you use to communicate with most of your extended family, upload vacation photos for them to enjoy and comment your cousin&amp;rsquo;s wedding announcement.&lt;/p&gt;
+
+&lt;p&gt;But what if Google suddenly decides that Google+ is no longer worth running and announces it&amp;rsquo;s shutdown?
+This is exactly what Google did, with less than 4 months of time to do &amp;hellip; well what exactly?&lt;/p&gt;
+
+&lt;p&gt;There is basic export-functionality, but where would you move, anyway?
+Facebook is, privacy-wise at as bad as Google is, and, well, social network wise, that&amp;rsquo;s about it.
+The problem is, we have no realistic alternative to Facebook.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Yes&lt;/em&gt;, there &lt;em&gt;are&lt;/em&gt; a few &lt;a href=&#34;https://github.com/gdamdam/awesome-decentralized-web#microblogging-and-social-network&#34;&gt;decentralized alternatives&lt;/a&gt; around, but none of them have any real world usage (maybe &lt;a href=&#34;https://joinmastodon.org&#34;&gt;Mastodon&lt;/a&gt;, but that might just be my filter bubble and it&amp;rsquo;s still different from being Google+ or Facebook).
+&lt;a href=&#34;https://diasporafoundation.org&#34;&gt;Diaspora&lt;/a&gt; tried to achieve that years ago, but for whatever reason it never really caught on.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For the user there is no real alternative besides&lt;/em&gt; &lt;strong&gt;move to Facebook&lt;/strong&gt; &lt;em&gt;which, if you ask me, &lt;strong&gt;sucks ass&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Facebook should&amp;rsquo;ve never gotten that big, we should&amp;rsquo;ve moved to something based on &lt;a href=&#34;https://en.wikipedia.org/wiki/ActivityPub&#34;&gt;ActivityPub&lt;/a&gt; years ago, since it&amp;rsquo;s easy to host, easy to migrate, interoperable with other ActivityPub-based stuff and it&amp;rsquo;s getting easier to use by the minute.&lt;/p&gt;
+
+&lt;p&gt;The only thing keeping me on Twitter and YouTube are the &lt;em&gt;people and their content&lt;/em&gt;, not the (mostly) shitty platforms.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t care if YouTube satisfies the advertisers or the investors, what I care about is the new video from my favorite creator, which &lt;em&gt;just happens to be&lt;/em&gt; on YouTube, but might as well be on &lt;a href=&#34;https://joinpeertube.org/&#34;&gt;PeerTube&lt;/a&gt;, &lt;a href=&#34;https://about.d.tube&#34;&gt;DTube&lt;/a&gt; or whatever (Sidenote for PeerTube: it&amp;rsquo;s based on ActivityPub as well, which means your subscriptions and creator-updates will show up just fine in your Mastodon-timeline! 🎉).&lt;/p&gt;
+
+&lt;p&gt;The same rules, of course, apply for &lt;em&gt;checks notes&lt;/em&gt; backups as well.
+A few years ago I used a service called Everpix, which I used to backup my photos. I loved it, it was fast, easy, cheap, it ticked all the boxes. But then, of course, &lt;a href=&#34;https://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup&#34;&gt;it had to shut down&lt;/a&gt;
+&lt;/br&gt;I hastily replaced it with &lt;a href=&#34;https://www.theverge.com/2014/4/17/5624890/dropbox-acquires-loom&#34;&gt;Loom&lt;/a&gt;, which was, you guessed it, shutdown after Dropbox &lt;del&gt;killed it&lt;/del&gt; shut it down &lt;em&gt;with 4 weeks notice&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;After that, I once again scrambled to find a replacement &amp;hellip; which was &lt;a href=&#34;http://blog.picturelife.com/post/109541575280/picturelife-joins-streamnation&#34;&gt;PictureLife&lt;/a&gt;.
+&lt;/br&gt;Of course, it &lt;del&gt;got killed&lt;/del&gt; shut down as well.&lt;/p&gt;
+
+&lt;p&gt;Luckily, it&amp;rsquo;s shutdown happened after I had migrated all my stuff to Apple&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/ICloud#iCloud_Photo_Library&#34;&gt;iCloud Photo Library&lt;/a&gt;, but now all my stuff is at Apple&amp;rsquo;s mercy. If they ever shutdown (lol) or get acquired (lol), I will be in the situation I got out of just in time.&lt;/p&gt;
+
+&lt;p&gt;Now once again we rely heavily on services the tech giants provide us with.&lt;/p&gt;
+
+&lt;p&gt;We don&amp;rsquo;t &lt;em&gt;own&lt;/em&gt; our movies, we watch them on our Netflix/Prime Video/Hulu/Disney+ subscription (or which ever asshole comes up with another one by the time I have finished this post).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;But I can still buy a digital copy of any move, dipshit!&lt;/em&gt;
+&lt;/br&gt;Well, of course you can, but you should pray to &lt;del&gt;&lt;a href=&#34;https://www.theguardian.com/global/video/2019/mar/07/tim-apple-donald-trump-gets-name-of-tech-giants-ceo-wrong-video&#34;&gt;Tim Apple&lt;/a&gt;&lt;/del&gt; Tim Cook that Apple can &lt;a href=&#34;https://discussions.apple.com/thread/5001191&#34;&gt;keep the rights forever&lt;/a&gt;, otherwise you&amp;rsquo;ve bought &lt;em&gt;jack shit&lt;/em&gt;. Yes, you get a refund, but it won&amp;rsquo;t be in cash but iTunes credit instead, so don&amp;rsquo;t even think about buying that movie on Prime Video.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;re always at the mercy of the original rights holder, waiting to take away things you &lt;em&gt;bought&lt;/em&gt;.
+&lt;/br&gt;Geez, I can&amp;rsquo;t possibly imagine why people still pirate movies.&lt;/p&gt;
+
+&lt;p&gt;If companies won&amp;rsquo;t let us &lt;em&gt;legally&lt;/em&gt; own stuff in a digital way (I&amp;rsquo;m not talking about an optical disc), people will pirate what they want, the only one who get&amp;rsquo;s fucked is the lawful customer and the owner, never the pirate.&lt;/p&gt;
+
+&lt;p&gt;But I digress, back to topic.&lt;/p&gt;
+
+&lt;p&gt;We need to get out of &lt;em&gt;digital silos&lt;/em&gt;.
+&lt;/br&gt;We need to stop using one single company and every service they offer.&lt;/p&gt;
+
+&lt;p&gt;Stop using Safari&amp;rsquo;s reading list, use &lt;a href=&#34;https://www.instapaper.com&#34;&gt;Instapaper&lt;/a&gt;, &lt;a href=&#34;https://pinboard.in&#34;&gt;Pinboard&lt;/a&gt; or &lt;a href=&#34;https://getpocket.com&#34;&gt;Pocket&lt;/a&gt;.
+&lt;/br&gt;Stop using Amazon&amp;rsquo;s Kindle service, use &lt;a href=&#34;https://www.defectivebydesign.org/guide/ebooks&#34;&gt;literally any other service&lt;/a&gt;, preferrably one without DRM.
+&lt;/br&gt;If you can, stop using Dropbox, iCloud Drive and whatever, run a &lt;a href=&#34;https://nextcloud.com&#34;&gt;NextCloud&lt;/a&gt; instance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Stop centralizing, start decentralizing.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Problem With Tesla</title>
