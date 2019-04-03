@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.korni22.org/posts/the-problem-with-tesla/</loc>
+    <lastmod>2019-03-01T17:51:15+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.korni22.org/posts/federated-networks-free-speech-and-other-easy-topics/</loc>
     <lastmod>2018-09-06T13:06:57+02:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>https://blog.korni22.org/</loc>
-    <lastmod>2018-09-06T13:06:57+02:00</lastmod>
+    <lastmod>2019-03-01T17:51:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.korni22.org/posts/</loc>
-    <lastmod>2018-09-06T13:06:57+02:00</lastmod>
+    <lastmod>2019-03-01T17:51:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
